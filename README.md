@@ -337,15 +337,3 @@ Update these places:
 * The included `mblt-model-zoo` folder is treated as a **local dependency** for quick iteration and custom model registration.
 
 ---
-
-## License
-
-Internal / project-specific. Add your preferred license here if you plan to open-source any parts.
-
----
-
-If you want, I can also:
-
-* rewrite this README to match your exact repo name (`mobilint-qb-yolo11-compiler`) and preferred style,
-* add a **one-command Makefile** (convert → sample → calib → compile),
-* or document the **expected output logs** for each step so debugging is faster.
